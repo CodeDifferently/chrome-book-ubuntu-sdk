@@ -1,4 +1,5 @@
 #!/bin/bash
+mkdir ~/dev
 
 sudo apt-get update
 sudo apt-get install git
